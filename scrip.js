@@ -10,7 +10,7 @@ const perguntas = [
 ];
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Pergunta 1",  
         alternativas: [
             "Alternativa 1",
             "Alternativa 2"
@@ -23,4 +23,4 @@ const perguntas = [
             "Alternativa 2"
         ]
     }
-]; 
+]; k
